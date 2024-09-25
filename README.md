@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Yosua Lieandi
+# 👋 Hi, I’m Yosua Lieandi
+
 - 👀 I’m interested in Data Analytics and UX Area
 - 🌱 I’m currently learning about analytical skills and administration
 - 📫 You can reach me on LinkedIn: Yosua Lieandi | Email: yosualieandi@gmail.com | Instagram: @yosua.lie18
